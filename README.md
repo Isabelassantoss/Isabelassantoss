@@ -1,56 +1,91 @@
-<div align="center">
+# ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
 
-# 👩🏻‍💻 Olá! Eu sou a Isabela
-
-### `Estudante de Desenvolvimento de Sistemas`
-
-💻 Aprendendo a transformar ideias em código
-🚀 Construindo meus primeiros projetos
-✨ Evoluindo um pouco todos os dias
-
-</div>
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Tenho **16 anos** e estudo **Desenvolvimento de Sistemas no SENAI**
-* 💻 Atualmente focada em **programação e desenvolvimento web**
-* 🧠 Aprendendo lógica, front-end e back-end
-* 🎯 Meu objetivo é continuar evoluindo e criar projetos cada vez melhores
-
----
-
-## 🛠️ Tecnologias
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-</div>
-
----
-
-## 📚 Atualmente estudando
+# hi, i'm isabela 🐛
 
 ```text
-HTML & CSS        ███████████████░░░  80%
-JavaScript        ██████████░░░░░░░░  60%
-Python            ███████████░░░░░░░  65%
-PHP               █████████░░░░░░░░░  55%
-C#                ███████░░░░░░░░░░░  45%
-Git & GitHub      ████████████░░░░░░  70%
+        /\_/\
+       ( o.o )
+        > ^ <
+
+   currently somewhere between
+   "i know what i'm doing"
+             and
+   "why is this not working?"
 ```
 
----
+### ⌗ about me
 
-<div align="center">
+> 🎀 student who likes to create things
+> 💻 learning to turn ideas into code
+> 🐛 professional bug creator & fixer
+> 🌱 slowly becoming a better developer
+
+```diff
++ learning PHP
++ learning Python
++ HTML / CSS
++ Git & GitHub
++ Linux
++ making questionable code choices
+```
+
+### ₊˚⊹ projects
+
+```text
+📁 things-i-made
+ ├── 💻 php-projects
+ ├── 🐍 python-stuff
+ ├── 🌐 websites
+ ├── 🐧 linux-adventures
+ └── 💀 things-that-somehow-work
+```
+
+### ♡ currently listening to
+
+```text
+┌─────────────────────────────┐
+│ 🎧 coding playlist.exe      │
+│                             │
+│ ▶ ███████████░░░  73%       │
+└─────────────────────────────┘
+```
+
+### 🐛 my coding process
+
+```text
+idea
+ ↓
+code
+ ↓
+error
+ ↓
+google
+ ↓
+cry
+ ↓
+fix
+ ↓
+"IT WORKS"
+ ↓
+break something else
+```
+
+### ✦ little corner of the internet
+
+```text
+╭──────────────────────────────╮
+│                              │
+│       made with ♡ + bugs     │
+│                              │
+│       code • learn • repeat  │
+│                              │
+╰──────────────────────────────╯
+```
+
+> `♡ still learning, still creating, still debugging.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+
 
 ### 💜 `Code • Learn • Create • Repeat`
 
