@@ -1,26 +1,10 @@
-# ⊹ ࣪ ˖ 𐙚 oi, eu sou a isabela! ⋆｡°✩
+# ⊹ ࣪ ˖ 𐙚 oi, eu sou a Isabela! ⋆｡°✩
 
-```text
-╭──────────────────────────────╮
-│                              │
-│   💻 código aberto...        │
-│   🧠 cérebro carregando...  │
-│   🐛 bugs encontrados: ∞     │
-│                              │
-╰──────────────────────────────╯
-```
+### 💻 Estudante de Tecnologia
 
-## 🌷 um pouquinho sobre mim
+Sou estudante da área de tecnologia e estou construindo minha trajetória no desenvolvimento de software.
 
-```text
-✦ estudante de tecnologia
-✦ aprendendo programação
-✦ gosto de criar coisas novas
-✦ tentando entender por que o código que funcionava ontem
-  decidiu não funcionar hoje
-```
-
-## 💻 minhas tecnologias
+Atualmente, estou aprendendo e desenvolvendo projetos utilizando:
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,24 +15,22 @@
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-## 🐛 status atual
+### 🌱 Atualmente
 
-```text
-[██████████████░░░░░░] 70%
-
-aprendendo............... ✔
-criando projetos......... ✔
-entendendo git........... ✔
-lutando contra bugs...... ✔
-entendendo tudo.......... ✘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+* Aprimorando meus conhecimentos em programação
+* Desenvolvendo projetos para colocar meus estudos em prática
+* Aprendendo sobre desenvolvimento web e sistemas
+* Explorando novas tecnologias e ferramentas
 
 
-### 💜 `Code • Learn • Create • Repeat`
+---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+<p align="center">
+  <i>"Aprender, praticar e evoluir."</i>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+</p>
+
 
