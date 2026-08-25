@@ -20,8 +20,6 @@
   decidiu não funcionar hoje
 ```
 
-> `programar é basicamente errar até descobrir como acertar.`
-
 ## 💻 minhas tecnologias
 
 <p>
@@ -44,12 +42,6 @@ entendendo git........... ✔
 lutando contra bugs...... ✔
 entendendo tudo.......... ✘
 ```
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
-</p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 
