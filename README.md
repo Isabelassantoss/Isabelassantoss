@@ -1,10 +1,11 @@
-# ⊹ ࣪ ˖ 𐙚 oi, eu sou a Isabela! ⋆｡°✩
+# ⊹ ࣪ ˖ 𐙚 Olá, eu sou a Isabela! ⋆｡°✩
 
-### 💻 Estudante de Tecnologia
+### 𑣲⋆ Estudante de Tecnologia
 
 Sou estudante da área de tecnologia e estou construindo minha trajetória no desenvolvimento de software.
+---
 
-Atualmente, estou aprendendo e desenvolvendo projetos utilizando:
+Desenvolvendo projetos utilizando em:
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,7 +16,7 @@ Atualmente, estou aprendendo e desenvolvendo projetos utilizando:
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-### 🌱 Atualmente
+### ✮⋆˙ Atualmente
 
 * Aprimorando meus conhecimentos em programação
 * Desenvolvendo projetos para colocar meus estudos em prática
