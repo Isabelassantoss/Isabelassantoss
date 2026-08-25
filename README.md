@@ -1,88 +1,55 @@
-# ˚₊‧꒰ა ☆ ໒꒱ ‧₊˚
-
-# hi, i'm isabela 🐛
-
-```text
-        /\_/\
-       ( o.o )
-        > ^ <
-
-   currently somewhere between
-   "i know what i'm doing"
-             and
-   "why is this not working?"
-```
-
-### ⌗ about me
-
-> 🎀 student who likes to create things
-> 💻 learning to turn ideas into code
-> 🐛 professional bug creator & fixer
-> 🌱 slowly becoming a better developer
-
-```diff
-+ learning PHP
-+ learning Python
-+ HTML / CSS
-+ Git & GitHub
-+ Linux
-+ making questionable code choices
-```
-
-### ₊˚⊹ projects
-
-```text
-📁 things-i-made
- ├── 💻 php-projects
- ├── 🐍 python-stuff
- ├── 🌐 websites
- ├── 🐧 linux-adventures
- └── 💀 things-that-somehow-work
-```
-
-### ♡ currently listening to
-
-```text
-┌─────────────────────────────┐
-│ 🎧 coding playlist.exe      │
-│                             │
-│ ▶ ███████████░░░  73%       │
-└─────────────────────────────┘
-```
-
-### 🐛 my coding process
-
-```text
-idea
- ↓
-code
- ↓
-error
- ↓
-google
- ↓
-cry
- ↓
-fix
- ↓
-"IT WORKS"
- ↓
-break something else
-```
-
-### ✦ little corner of the internet
+# ⊹ ࣪ ˖ 𐙚 oi, eu sou a isabela! ⋆｡°✩
 
 ```text
 ╭──────────────────────────────╮
 │                              │
-│       made with ♡ + bugs     │
-│                              │
-│       code • learn • repeat  │
+│   💻 código aberto...        │
+│   🧠 cérebro carregando...  │
+│   🐛 bugs encontrados: ∞     │
 │                              │
 ╰──────────────────────────────╯
 ```
 
-> `♡ still learning, still creating, still debugging.`
+## 🌷 um pouquinho sobre mim
+
+```text
+✦ estudante de tecnologia
+✦ aprendendo programação
+✦ gosto de criar coisas novas
+✦ tentando entender por que o código que funcionava ontem
+  decidiu não funcionar hoje
+```
+
+> `programar é basicamente errar até descobrir como acertar.`
+
+## 💻 minhas tecnologias
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+## 🐛 status atual
+
+```text
+[██████████████░░░░░░] 70%
+
+aprendendo............... ✔
+criando projetos......... ✔
+entendendo git........... ✔
+lutando contra bugs...... ✔
+entendendo tudo.......... ✘
+```
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 
