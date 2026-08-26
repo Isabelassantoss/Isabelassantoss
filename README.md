@@ -5,7 +5,7 @@
 Sou estudante da área de tecnologia e estou construindo minha trajetória no desenvolvimento de software.
 ---
 
-Desenvolvendo projetos utilizando em:
+Desenvolvendo projetos utilizando:
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
